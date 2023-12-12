@@ -7,5 +7,5 @@
 
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=next,svelte,nest,fastify" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=tailwind,next,svelte,nest" /> <br /><br />
 
